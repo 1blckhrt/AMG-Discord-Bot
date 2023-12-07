@@ -1,0 +1,26 @@
+{
+  "name": "amg-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "canvacord": "^5.4.10",
+    "discord-arts": "^0.4.5",
+    "discord-gamecord": "^4.4.1",
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.13.0",
+    "glob": "^10.3.7",
+    "mongoose": "^6.0.12",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.54.0"
+  }
+}
